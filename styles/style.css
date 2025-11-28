@@ -1,0 +1,46 @@
+* {
+    background-color: beige;
+    margin: 0;
+    font-family: fantasy, sans-serif;
+}
+nav, a {
+    background-color: black;
+    color: white
+}    
+
+#title {
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+    background-color: black;
+    padding: 50px;
+    font-size: 50px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#sub {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.menu button {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 150px;
+    height: auto;
+    margin-top: 20px;
+}
+
+button {
+    margin: 0 auto;
+}
+
+.menu {
+    text-align: center;
+}
